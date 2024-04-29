@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"result",
+				"resolutionIssuer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/contracts/Token.sol",
+			"settings":
+			{
+				"buffer_size": 1808,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"file rena",
+				"Rename File"
+			],
+			[
+				" file new",
+				"File: New View into File"
+			],
+			[
+				"file",
+				"Rename File"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"solidity ",
+				"Set Syntax: Solidity"
+			],
+			[
+				"solidity",
+				"Set Syntax: Solidity"
+			],
+			[
+				"solidi",
+				"Set Syntax: Solidity"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" re",
+				"Rename File"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				" file name",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sockchimp/jellybeancentral",
+		"/Users/sockchimp/jellybeancentral/scripts",
+		"/Users/sockchimp/jellybeancentral/src",
+		"/Users/sockchimp/jellybeancentral/src/contracts"
+	],
+	"file_history":
+	[
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/User/repository.json",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/sublime-github/github.py",
+		"/Users/sockchimp/Desktop/smore-inc-clippy.js-8bfd1f9/src/queue.js",
+		"/Users/sockchimp/Desktop/smore-inc-clippy.js-8bfd1f9/src/load.js",
+		"/Users/sockchimp/Desktop/smore-inc-clippy.js-8bfd1f9/src/balloon.js",
+		"/Users/sockchimp/Desktop/smore-inc-clippy.js-8bfd1f9/src/animator.js",
+		"/Users/sockchimp/Desktop/smore-inc-clippy.js-8bfd1f9/src/agent.js",
+		"/Users/sockchimp/jellybeancentral/src/store/actions.js",
+		"/Users/sockchimp/jellybeancentral/src/components/App.js",
+		"/Users/sockchimp/jellybeancentral/src/store/reducers.js",
+		"/Users/sockchimp/jellybeancentral/src/index.js",
+		"/Users/sockchimp/jellybeancentral/src/store/configureStore.js",
+		"/Users/sockchimp/jellybeancentral/src/App.js",
+		"/Users/sockchimp/jellybeancentral/src/App.css",
+		"/Users/sockchimp/jellybeancentral/src/notused1",
+		"/Users/sockchimp/jellybeancentral/src/notused3",
+		"/Users/sockchimp/jellybeancentral/scripts/seed-exchange.js",
+		"/Users/sockchimp/jellybeancentral/src/reportWebVitals.js",
+		"/Users/sockchimp/jellybeancentral/.gitignore",
+		"/Users/sockchimp/jellybeancentral/node_modules/@types/react/jsx-runtime.d.ts",
+		"/Users/sockchimp/jellybeancentral/test/Exchange.test.js",
+		"/Users/sockchimp/jellybeancentral/test/Helpers.js",
+		"/Users/sockchimp/jellybeancentral/src/contracts/Token.sol",
+		"/Users/sockchimp/jellybeancentral/test/Token.test.js",
+		"/Users/sockchimp/jellybeancentral/.babelrc",
+		"/Users/sockchimp/jellybeancentral/babelrc",
+		"/Users/sockchimp/jellybeancentral/package.json",
+		"/Users/sockchimp/jellybeancentral/test/helpers.js",
+		"/Users/sockchimp/jellybeancentral/src/helpers.js",
+		"/Users/sockchimp/jellybeancentral/migrations/2_deploy_contracts.js",
+		"/Users/sockchimp/jellybeancentral/migrations/1_initial_migration.js",
+		"/Users/sockchimp/jellybeancentral/migrations/:* 2_deploy_contracts.js",
+		"/Users/sockchimp/jellybeancentral/package-lock.json",
+		"/Users/sockchimp/jellybeancentral/truffle-config.js",
+		"/Users/sockchimp/jellybeancentral/.env",
+		"/Users/sockchimp/blockchain-developer-bootcamp/package-lock.json",
+		"/Users/sockchimp/jellybeanscentral/package-lock.json",
+		"/Users/sockchimp/Downloads/bootcamp-1/migrations/1_initial_migration.js",
+		"/Users/sockchimp/Downloads/bootcamp-1/package.json",
+		"/Users/sockchimp/Downloads/bootcamp-1/README.md",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/Ethereum/Solidity.sublime-syntax",
+		"/Users/sockchimp/Downloads/SublimeEthereum-master/Comments.tmPreferences",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Installed Packages/Solidity.sublime-syntax",
+		"/Users/sockchimp/Downloads/SublimeEthereum-master/CHANGELOG.md",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/Ruby/Snippets/path_from_here(-__-).sublime-snippet",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/Package Control/package_control/commands/install_local_dependency_command.py",
+		"/Users/sockchimp/Library/Application Support/Sublime Text/Packages/Default/install_package_control.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/contracts/Token.sol",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ethereum/Solidity.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
